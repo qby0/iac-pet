@@ -22,4 +22,4 @@ module "vpc" {
   single_nat_gateway = false
   create_igw = true
   enable_dns_hostnames = false
-}}
+}
