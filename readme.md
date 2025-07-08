@@ -8,3 +8,5 @@ This is my simple AWS learning project using Terraform. I'm exploring basic AWS 
 - Configured default tags and the AWS region.
 - Added a .gitignore to exclude state and provider files.
 - Ran `terraform init` and `terraform plan` successfully.
+
+# Day 2
