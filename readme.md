@@ -9,4 +9,7 @@ This is my simple AWS learning project using Terraform. I'm exploring basic AWS 
 - Added a .gitignore to exclude state and provider files.
 - Ran `terraform init` and `terraform plan` successfully.
 
-# Day 2
+# Day 2-3
+
+- Configured Terraform state backup in S3.
+- Added security groups for database and web.
